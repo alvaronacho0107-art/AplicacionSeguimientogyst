@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693816060267",
+    "project_id": "seguimientogyst",
+    "storage_bucket": "seguimientogyst.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693816060267:android:14c65ab814c0ac30acc42e",
+        "android_client_info": {
+          "package_name": "com.alvaro.seguimientodegarantiasyserviciostecnicos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCp6ZEQak-i9a_7eDjg7BTazrMGydV7cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
